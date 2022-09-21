@@ -1,0 +1,23 @@
+{
+  "name": "tarheel-spirit-server1",
+  "version": "1.0.0",
+  "description": "This assignment will help you get started working with Node.js by hacking your way through creating a webserver from scratch.",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-nmiggiani.git"
+  },
+  "author": "nmiggiani",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-nmiggiani/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-nmiggiani#readme",
+  "dependencies": {
+    "minimis": "^0.1.7",
+    "minimist": "^1.2.6"
+  }
+}
