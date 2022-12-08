@@ -19,6 +19,5 @@
   "dependencies": {
     "minimis": "^0.1.7",
     "minimist": "^1.2.6"
-  }
-  
+  } 
 }
